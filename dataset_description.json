@@ -1,10 +1,12 @@
 {
-    "Name": "Single-Trial Visually Evoked Potentials Predict Both Individual Choice and Market Outcomes",
+    "Name": "eeg-neuroforecasting",
     "BIDSVersion": "1.6.0",
     "DatasetType": "raw",
-    "Authors": [   "Veillette, J.",
-    "Heald, S.",
-    "Wittenbrink, B.",
-    "Nusbaum, H."
-]
+    "Authors": [
+        "Veillette, J.",
+        "Heald, S.",
+        "Wittenbrink, B.",
+        "Nusbaum, H."
+    ],
+    "License": "CC0"
 }
